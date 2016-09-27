@@ -1,0 +1,23 @@
+#body
+{
+	background-color: black;
+}
+#div1
+{
+	background-color: red;
+}
+
+h1.title
+{
+	color: grey;
+}
+
+#tableOne
+{
+	font-color: grey;
+}
+
+#orderedList
+{
+	font-color: grey;
+}
