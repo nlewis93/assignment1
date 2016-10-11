@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="en">
+
+  <head>
+    <meta charset="UTF-8">
+    <title>InClassOne</title>
+    <link rel="stylesheet" href="inClassStyle.css">
+  </head>
+
+      
+  <body>
+
+    <div id= "div1"> 
+
+    <h1 class = "title">Nolan's Site!</h1>
+
+    <ol id= "orderedList">
+      <li>Hey, This is list item one!</li>
+      <li>This is list item two!</li>
+    </ol>
+
+    <table id="tableOne">
+      <td>Table data one!</td>
+      <td>Table data two!</td>
+    </table>
+
+    </div>
+
+  </body>
+
+</html>
